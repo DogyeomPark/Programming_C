@@ -1,0 +1,16 @@
+﻿  Chapter22_02.c
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(13,22): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [7]'과(와) 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(13,22): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(13,35): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(13,35): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(14,26): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [14]'과(와) 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(14,26): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(14,43): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(14,43): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(19,37): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(19,52): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\Chapter22-01\Chapter22_02.c(19,52):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  
+Chapter22_02.obj : error LNK2005: main이(가) Chapter22-01.obj에 이미 정의되어 있습니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter22-01\x64\Debug\Chapter22-01.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
