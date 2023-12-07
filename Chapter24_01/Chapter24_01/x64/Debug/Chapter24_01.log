@@ -1,0 +1,4 @@
+﻿  Chapter24_01.c
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter24_01\Chapter24_01\Chapter24_01.c(6,10): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter24_01\Chapter24_01\Chapter24_01.c(6,6): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  Chapter24_01.vcxproj -> C:\Users\tjoeun\Documents\GitHub\Programming_C\Chapter24_01\x64\Debug\Chapter24_01.exe
